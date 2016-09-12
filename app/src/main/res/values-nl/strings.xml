@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="dialogue_1">Hallo, ik ben de Alfred assistent. Ik ben geïntegreerd in alle Alfred applicaties. Ik ben hier om u te helpen. Ten eerste zult u in al onze applicaties vaak een knop in het scherm zien met een microfoon. Tik op de knop met de microfoon en zeg "ga verder". </string>
+    <string name="dialogue_2">Perfect! Dit is belangrijk, de applicaties hebben een gesprekssysteem. U kunt mij antwoorden en u kunt opdrachten aan mij geven. Op deze manier zal de interactie tussen u en de applicatie makkelijker verlopen. Tik op de knop met de microfoon en zeg "ik begrijp het" om verder te gaan. </string>
+    <string name="dialogue_3">Laten we een eenvoudig voorbeeld nemen. Kijk in de linkerbenedenhoek van het scherm. In de linkerbenedenhoek van het scherm ziet u twee blauw gekleurde opdrachten. Elke blauw gekleurde opdracht kan worden uitgevoerd, een geluid afspelen of een afbeelding laten zien. Tik op de knop met de microfoon en lees een blauw gekleurde opdracht voor zodat ik uw bevel kan horen.</string>
+    <string name="dialogue_4_1">Dit is het geluid. Ik hoop dat dit u heeft geholpen. Laten we elkaar beter leren kennen. Wat is uw naam? Zeg "mijn naam is", gevolgd door uw naam.</string>
+    <string name="dialogue_4_2">Dit is de afbeelding, een heldere ster. Ik hoop dat dit u heeft geholpen. Laten we elkaar beter leren kennen. Wat is uw naam? Zeg "mijn naam is", gevolgd door uw naam.</string>
+    <string name="dialogue_5">Oké. Mijn naam is Alfred. Hoe oud bent u? Zeg "ik ben", gevolgd door uw leeftijd.</string>
+    <string name="dialogue_6">U bent ouder dan ik, want ik besta pas net. Ik hoop dat we in de toekomst meer contact hebben met elkaar, een fijne dag toegewenst.</string>
+    <string name="start_tutorial">Zeg "start" om de handleiding te openen.</string>
+    <string name="error">Fout</string>
+    <string name="permissions_needed">Machtigingen nodig! </string>
+    <string name="permissions_needed_check">Controle Permissions </string>
+    <string name="permissions_needed_close">Sluiten App </string>
+    <string name="permissions_needed_descr">Het is nodig om alle permissies om de toepassing correcte werking accepteren.</string>
+    <string name="permissions_needed_open">Open instellingen </string>
+    <string name="sms_sent">SMS Verzonden! </string>
+    <string name="videocalling_skype">Videotelefonie via Skype ... </string>
+    <string name="install_skype">Installeer de Skype-applicatie om video-oproep. </string>
+</resources>

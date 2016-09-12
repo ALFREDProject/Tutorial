@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="dialogue_1">Bonjour. Je suis votre assistant ALFRED. Je suis une plateforme regroupant toutes vos applications ALFRED. Je suis ici pour vous aider. Tout d\'abord, dans vos applications, vous verrez fréquemment sur l\'écran un bouton représentant un micro. Touchez le et dîtes "Continuer". </string>
+    <string name="dialogue_2">Parfait! Ce qui suit est important.  Les applications fonctionnent avec un système de conversation. Vous pouvez me répondre et me soumettre vos requêtes. De cette manière, votre intéraction avec les applications est facilitée. Touchez le bouton représentant le micro et dîtes "Je comprends" pour continuer. </string>
+    <string name="dialogue_3">Prenons un exemple afin d\'illustrer cela. Regardez en bas à gauche de votre écran. Vous voyez deux phrases en bleu qui sont en fait des requêtes: jouer un son et montrer une image. Touchez le bouton représentant le micro et lisez une des deux requêtes afin que je comprenne ce que vous voulez.</string>
+    <string name="dialogue_4_1">Voilà un son. J\'espère que cela vous a aidé. Maintenant, faisons connaissance. Comment vous appelez-vous? Dîtes "mon nom est" suivi de votre prénom.</string>
+    <string name="dialogue_4_2">Voici une image. J\'espère que cela a été utile. Maintenant, faisons connaissance. Comment vous appelez-vous? Dîtes "mon nom est" suivi de votre prénom.</string>
+    <string name="dialogue_5">C\'est noté. Mon nom est Alfred. Quel âge avez-vous? Dîtes "J\'ai" suivi de votre âge.</string>
+    <string name="dialogue_6">Vous êtes plus vieux que moi vu que je viens juste d\'être créé! J\'espère que nous pourrons mieux nous connaître par la suite. Passez une bonne journée!</string>
+    <string name="start_tutorial">Dire "Commencer" pour lancer le tutoriel.</string>
+    <string name="error">Erreur</string>
+    <string name="permissions_needed">Autorisations nécessaires! </string>
+    <string name="permissions_needed_check">Vérifiez les autorisations </string>
+    <string name="permissions_needed_close">Fermer App </string>
+    <string name="permissions_needed_descr">Il est nécessaire d\'accepter toutes les autorisations afin d\'exécuter l\'application correctement.</string>
+    <string name="permissions_needed_open">Ouvrez Paramètres </string>
+    <string name="sms_sent">SMS envoyé! </string>
+    <string name="videocalling_skype">Appel vidéo via Skype ... </string>
+    <string name="install_skype">Installez l\'application Skype pour appel vidéo. </string>
+</resources>

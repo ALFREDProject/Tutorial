@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="dialogue_1">Hello I am the Alfred assistant.I am an integrated platform in all of our Alfred apps.I am here to help you.First of all, in our applications, you will commonly see a button in the screen with a microphone.Touch the microphone button below and say continue.</string>
+    <string name="dialogue_2">Perfect! this is important, the applications have an integrated system of conversation.You can answer me and give commands to me.In that way the interaction between you and the application will be more comfortable.Touch the microphone button below and say I understand to continue.</string>
+    <string name="dialogue_3">Let\'s put a simple example in the screen.Please, look at the bottom left of screen.In the bottom left of the screen, you will see two blue colored commands.Each blue colored command can be executed, play a sound or show an image.Touch the microphone button below and read one blue colored command so I can hear your command.</string>
+    <string name="dialogue_4_1">Here is the sound.I hope his has helpful for you.Now let\'s know each other better.What is your name? Say my name is followed by your name.</string>
+    <string name="dialogue_4_2">Here is the image, a bright star.I hope this has been helpful for you.Now let\'s know each other better.What is your name?Say my name is followed by your name.</string>
+    <string name="dialogue_5">Alright .My name is Alfred.How old are you?Say I am followed by your age.</string>
+    <string name="dialogue_6">You are older than me, because I was recently created.I hope we can connect more in the future, have a nice day.</string>
+    <string name="start_tutorial">Say "start" to start the tutorial.</string>
+
+
+
+    <string name="error">Error</string>
+    <string name="permissions_needed">Permissions needed!</string>
+    <string name="permissions_needed_descr">It is needed to accept all the permissions in order to run the application correctly.</string>
+    <string name="permissions_needed_check">Check Permissions</string>
+    <string name="permissions_needed_close">Close App</string>
+    <string name="permissions_needed_open">Open Settings</string>
+    <string name="videocalling_skype">Videocalling via Skype...</string>
+    <string name="install_skype">Install the Skype application to videocall.</string>
+    <string name="sms_sent">SMS Sent!</string>
+
+</resources>
